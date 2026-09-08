@@ -13,12 +13,15 @@ permalink: /weeks/week-01/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
-![共同繪製的教室導航地圖]({{ '/assets/images/IMG_1381.png' |
-relative_url }})
-![共同繪製的教室導航地圖]({{ '/assets/images/IMG_1382.png' |
-relative_url }})
 ![共同繪製的教室導航地圖]({{ '/assets/images/IMG_1383.png' |
 relative_url }})
+平常上課時的教室和師生狀態
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_1381.png' |
+relative_url }})
+探索教室導航地圖，打散桌子佈局，學生透過有限的資訊和感官，逐步找到石頭
+![共同繪製的教室導航地圖]({{ '/assets/images/IMG_1382.png' |
+relative_url }})
+我們組的導航地圖，以台灣的分布地名來定義，簡單易懂，探索的初期非常順利到達定位，但要拿到石頭卻少了更細的溝通方式
 
 ## FRICTION｜摩擦
 
