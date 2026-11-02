@@ -11,7 +11,7 @@ permalink: /weeks/week-04/
 
 ## TRACE｜痕跡
 
-工作坊做熟於自己的嗅覺味道
+工作坊做屬於自己的嗅覺味道
 ![物質與慢暴力？]({{ '/assets/images/w04-1.png' | relative_url }}) 
 大家圍成一圈試味道，寫下自己對味道的筆記，同一支氣味大家聞了有不同的理解，是很有趣的體驗
 ![物質與慢暴力？]({{ '/assets/images/w04-2.png' | relative_url }}) 
