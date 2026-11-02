@@ -11,10 +11,11 @@ permalink: /weeks/week-04/
 
 ## TRACE｜痕跡
 
+工作坊做熟於自己的嗅覺味道
 ![物質與慢暴力？]({{ '/assets/images/w04-1.png' | relative_url }}) 
-
+大家圍成一圈試味道，寫下自己對味道的筆記，同一支氣味大家聞了有不同的理解，是很有趣的體驗
 ![物質與慢暴力？]({{ '/assets/images/w04-2.png' | relative_url }}) 
-
+我們在建築所空間看到的大型垃圾，討論了一下決定以它作為同學工作坊的指認
 ![物質與慢暴力？]({{ '/assets/images/w04-3.png' | relative_url }}) 
 
 ## FRICTION｜摩擦
