@@ -11,6 +11,8 @@ permalink: /weeks/week-02/
 
 ## TRACE｜痕跡
 
+![位置與線索]({{ '/assets/images/w02-IMG_1600.heic' |
+relative_url }})
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
 
 ## FRICTION｜摩擦
