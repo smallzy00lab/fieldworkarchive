@@ -9,11 +9,11 @@ permalink: /weeks/week-03/
 
 > 請保留具體的現場、材料、語句或身體感受。
 ## TRACE｜痕跡
-
+![路徑、天氣與觸覺]({{ '/assets/images/w03-1.png' | relative_url }}) 
 工作坊的規則說明，大家扮演不同的角色和感官工作，口罩是被拿走視覺的角色道具
-
+![路徑、天氣與觸覺]({{ '/assets/images/w03-2.png' | relative_url }}) 
 外出的角色帶回了路徑上的一個物件，因為同學帶了非常巨大的物件而覺得很好笑，上面甚至還有生物
-
+![路徑、天氣與觸覺]({{ '/assets/images/w03-3.png' | relative_url }}) 
 用懸吊筆裝置來記錄走路的過程視覺化，是一個滿特別的方式
 
 ## FRICTION｜摩擦
