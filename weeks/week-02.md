@@ -11,9 +11,15 @@ permalink: /weeks/week-02/
 
 ## TRACE｜痕跡
 
-![位置與線索]({{ '/assets/images/IMG_1600.heic' |
+![位置與線索]({{ '/assets/images/w02-1.png' |
 relative_url }})
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+週二下午的學餐三樓咖啡廳休息區，目睹情侶在休息
+![位置與線索]({{ '/assets/images/w02-1.png' |
+relative_url }})
+同一個時間轉向，咖啡廳的另一邊是可以開會討論、用電腦做事的空間，唯有木地板的區域是更輕鬆的位置
+![位置與線索]({{ '/assets/images/w02-1.png' |
+relative_url }})
+木地板區本來的使用方式是給學生跑堂中間可以休息，因為環境過於舒適，讓大家會有想一起休息的感覺
 
 ## FRICTION｜摩擦
 
