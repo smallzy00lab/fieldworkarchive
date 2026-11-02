@@ -11,7 +11,11 @@ permalink: /weeks/week-05/
 
 ## TRACE｜痕跡
 
-放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+ ![感測器與資料]({{ '/assets/images/w05-1.png' | relative_url }}) 
+
+  ![感測器與資料]({{ '/assets/images/w05-2.png' | relative_url }}) 
+
+   ![感測器與資料]({{ '/assets/images/w05-3.png' | relative_url }}) 
 
 ## FRICTION｜摩擦
 
