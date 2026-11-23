@@ -29,5 +29,5 @@ permalink: /weeks/week-07/
 
 ## NEXT MOVE｜下一步
 
-回頭觀察酵母
+老師建議我用更積極性的對照組，我打算回頭觀察酵母
 
